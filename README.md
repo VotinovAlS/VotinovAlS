@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there, my name is Aleksandr Votinov👋
+
+🔭 I'm starting this exciting journey into data science and machine learning!
+
+###### Databases: 
+PostgreSQL
+
+###### Data Science: 
+Python, Pandas, Numpy, Matplotlib, Seaborn, SciPy, Scikit-learn, Catboost, Lightgbm, TensorFlow, Keras
 
 <!--
 **VotinovAlS/VotinovAlS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
