@@ -8,7 +8,6 @@ PostgreSQL
 ###### Data Science: 
 Python, Pandas, Numpy, Matplotlib, Seaborn, SciPy, Scikit-learn, Catboost, Lightgbm, TensorFlow, Keras
 
-[My Portfolio](https://github.com/VotinovAlS/Portfolio)
 
 ## Pet-проекты и прочие работы:
 
