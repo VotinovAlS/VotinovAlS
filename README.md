@@ -9,6 +9,7 @@ PostgreSQL
 Python, Pandas, Numpy, Matplotlib, Seaborn, SciPy, Scikit-learn, Catboost, Lightgbm, TensorFlow, Keras
 
 [Certificate of completion the Yandex.Praktikum course (En)](https://github.com/VotinovAlS/VotinovAlS/blob/main/yandex_ds_certificate_en.pdf)
+
 [Certificate of completion the Yandex.Praktikum course (Rus)](https://github.com/VotinovAlS/VotinovAlS/blob/main/yandex_ds_certificate_rus.pdf)
 
 ## Pet-проекты и прочие работы:
